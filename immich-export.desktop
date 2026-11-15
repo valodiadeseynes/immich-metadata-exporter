@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Immich Export
+Comment=Télécharger des photos Immich avec leurs métadonnées
+Exec=immich-export
+Icon=image-x-generic
+Terminal=false
+Categories=Graphics;Photography;GTK;
+StartupNotify=true
